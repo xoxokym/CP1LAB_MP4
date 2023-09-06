@@ -1,0 +1,14 @@
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\MP4_Monteagudo\MP4_Monteagudo\bin\Debug\MP4_Monteagudo.exe.config
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\MP4_Monteagudo\MP4_Monteagudo\bin\Debug\MP4_Monteagudo.exe
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\MP4_Monteagudo\MP4_Monteagudo\bin\Debug\MP4_Monteagudo.pdb
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\MP4_Monteagudo\MP4_Monteagudo\obj\Debug\MP4_Monteagudo.csprojAssemblyReference.cache
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\MP4_Monteagudo\MP4_Monteagudo\obj\Debug\MP4_Monteagudo.csproj.CoreCompileInputs.cache
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\MP4_Monteagudo\MP4_Monteagudo\obj\Debug\MP4_Monteagudo.exe
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\MP4_Monteagudo\MP4_Monteagudo\obj\Debug\MP4_Monteagudo.pdb
+D:\Users\User\Desktop\MP4_Monteagudo\MP4_Monteagudo\bin\Debug\MP4_Monteagudo.exe.config
+D:\Users\User\Desktop\MP4_Monteagudo\MP4_Monteagudo\bin\Debug\MP4_Monteagudo.exe
+D:\Users\User\Desktop\MP4_Monteagudo\MP4_Monteagudo\bin\Debug\MP4_Monteagudo.pdb
+D:\Users\User\Desktop\MP4_Monteagudo\MP4_Monteagudo\obj\Debug\MP4_Monteagudo.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\MP4_Monteagudo\MP4_Monteagudo\obj\Debug\MP4_Monteagudo.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\MP4_Monteagudo\MP4_Monteagudo\obj\Debug\MP4_Monteagudo.exe
+D:\Users\User\Desktop\MP4_Monteagudo\MP4_Monteagudo\obj\Debug\MP4_Monteagudo.pdb
